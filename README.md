@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/muhammad-huzaifa-tariq">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="linkedin">
     </a>
-    <a href="huzaifat65@outlook.com">
+    <a href="mailto:huzaifat65@outlook.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat&logo=gmail&logoColor=white" alt="e-mail">
     </a>
 </p>
