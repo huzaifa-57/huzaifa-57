@@ -1,4 +1,4 @@
-<h1 align="center">Hello There! <img src="https://github.com/huzaifa-57/gif-assets/blob/main/hand_waving.gif" width=32px alt="👋"></h1>
+<h1 align="center">Hello There! <img src="https://github.com/huzaifa-57/gif-assets/blob/main/hand_waving.gif" width=30px alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my Github profile!</b><br><br>
