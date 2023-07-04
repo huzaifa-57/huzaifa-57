@@ -48,6 +48,7 @@
 ![Debian](https://img.shields.io/badge/debian-black?style=for-the-badge&logo=debian)
 
 ### Profile Details
+<details>
 <p align="center">
   <a href="https://github.com/huzaifa-57">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifa-57&theme=transparent" />
@@ -72,6 +73,7 @@
     <img src="https://komarev.com/ghpvc/?username=huzaifa-57&color=blue&style=flat)" />
   </a>
 </p>
+</details>
 
 
 
