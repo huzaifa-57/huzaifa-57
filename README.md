@@ -47,6 +47,7 @@
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
 ![Debian](https://img.shields.io/badge/debian-black?style=for-the-badge&logo=debian)
 
+
 ### Profile Details
 <details>
     <p align="center">
