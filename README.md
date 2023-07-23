@@ -58,9 +58,6 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=huzaifa-57&theme=transparent" />
       </a>
       <a href="https://github.com/huzaifa-57">
-        <img src="https://streak-stats.demolab.com/?user=huzaifa-57&theme=transparent&hide_border=true" />
-      </a>
-      <a href="https://github.com/huzaifa-57">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huzaifa-57&theme=transparent" />
       </a>
       <a href="https://github.com/huzaifa-57">
