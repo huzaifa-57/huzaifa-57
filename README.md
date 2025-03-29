@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my Github profile!</b><br><br>
     <i>
-        I'm Muhammad Huzaifa Tariq.<br>
+        I'm Huzaifa Tariq.<br>
         Currently learning to walk in Machine Learning and Deep Learning without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects in Machine Learning and relevant fields.<br>
     </i><br>
